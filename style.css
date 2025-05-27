@@ -384,11 +384,6 @@ button.normal{
     color: rgb(14, 14, 14);
     text-decoration: none;
 }
-/* .pro >div :nth-child(6){
-    color:white;
-    
-
-} */
 #product1 .pro .des .design :hover{
     color:white;
     background-color: black;
