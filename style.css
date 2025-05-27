@@ -81,7 +81,7 @@ button.normal{
     color: rgb(42, 94, 94);
 }
 #hero{
-    background-image: url(/images/bg\ 1.jpg);
+    background-image: url(/images/bg\1.jpg);
     height: 95vh;
     width: 100%;
     background-repeat: no-repeat;
